@@ -17,5 +17,13 @@ public class Class01 {
 		System.out.println("This is testcase002");
 		
 	}
+	
+	@Test
+	public void Testcase03() {
+		
+		System.out.println("This is testcase003");
+		
+	}
+	
 
 }
