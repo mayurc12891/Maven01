@@ -10,5 +10,12 @@ public class Class01 {
 		System.out.println("This is Testcase001");
 		
 	}
+	
+	@Test
+	public void Testcase02() {
+		
+		System.out.println("This is testcase002");
+		
+	}
 
 }
