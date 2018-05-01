@@ -31,5 +31,10 @@ public class Class01 {
 		System.out.println("This is testcase004");
 		
 	}
-
+	@Test
+	public void Testcase05() {
+		
+		System.out.println("This is testcase005");
+		
+	}
 }
